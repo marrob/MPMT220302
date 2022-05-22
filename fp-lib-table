@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Others")(type "KiCad")(uri "D:/@@@!ProjectS/Cirucits/KiCad/Others.pretty")(options "")(descr ""))
+  (lib (name "Passive")(type "KiCad")(uri "D:/@@@!ProjectS/Cirucits/KiCad/Passive.pretty")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "D:/@@@!ProjectS/Cirucits/KiCad/Connectors.pretty")(options "")(descr ""))
+  (lib (name "Semiconductor")(type "KiCad")(uri "D:/@@@!ProjectS/Cirucits/KiCad/Semiconductor.pretty")(options "")(descr ""))
+)
